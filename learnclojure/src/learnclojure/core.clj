@@ -1,0 +1,13 @@
+(ns learnclojure.core
+  (:gen-class))
+
+(defn -main
+  "I don't do a whole lot ... yet."
+  [& args]
+  (println "Hello, World!")
+  (str "Hell" " " "World....")
+
+  ;Math is straightforward
+
+  (println (+ 1 1))
+  )
